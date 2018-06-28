@@ -1,0 +1,44 @@
+[2018-06-26 11:25:01.940] [sharedprocess] [info] main {"machineId":"50447318442e6cbfd9f22b338167f8869f8efa840f0156794024dc6ca5d8e041"}
+[2018-06-26 11:25:02.127] [sharedprocess] [info] Scanned user extensions: 0
+[2018-06-26 11:25:02.615] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-26 11:25:07.793] [sharedprocess] [info] Scanned user extensions: 0
+[2018-06-26 11:25:07.818] [sharedprocess] [info] Scanned user extensions: 0
+[2018-06-26 11:25:07.891] [sharedprocess] [info] Scanned user extensions: 0
+[2018-06-26 11:25:08.097] [sharedprocess] [info] Scanned user extensions: 0
+[2018-06-26 11:25:10.018] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-26 11:25:10.040] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-26 11:25:10.073] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-26 11:25:10.394] [sharedprocess] [info] Scanned user extensions: 0
+[2018-06-26 11:25:10.432] [sharedprocess] [info] Scanned user extensions: 0
+[2018-06-26 11:25:10.441] [sharedprocess] [info] Scanned user extensions: 0
+[2018-06-26 11:25:10.807] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-26 11:25:11.092] [sharedprocess] [info] Scanned user extensions: 0
+[2018-06-26 11:25:27.375] [sharedprocess] [info] Scanned user extensions: 0
+[2018-06-26 11:25:27.377] [sharedprocess] [info] Scanned user extensions: 0
+[2018-06-26 11:25:27.404] [sharedprocess] [info] Scanned user extensions: 0
+[2018-06-26 11:25:27.895] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-26 11:25:27.913] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-26 11:25:35.600] [sharedprocess] [info] Installing extension: quokka-vscode
+[2018-06-26 11:25:35.621] [sharedprocess] [info] Scanned user extensions: 0
+[2018-06-26 11:25:36.591] [sharedprocess] [info] Downloaded extension: quokka-vscode
+[2018-06-26 11:25:41.993] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-06-26 11:25:47.136] [sharedprocess] [info] Extracted extension to /home/student/.vscode/extensions/.wallabyjs.quokka-vscode-1.0.132: wallabyjs.quokka-vscode-1.0.132
+[2018-06-26 11:25:47.137] [sharedprocess] [info] Renamed to /home/student/.vscode/extensions/wallabyjs.quokka-vscode-1.0.132
+[2018-06-26 11:25:47.137] [sharedprocess] [info] Installation completed. wallabyjs.quokka-vscode-1.0.132
+[2018-06-26 11:25:47.157] [sharedprocess] [info] Extensions installed successfully: wallabyjs.quokka-vscode
+[2018-06-26 11:25:47.284] [sharedprocess] [info] Scanned user extensions: 1
+[2018-06-26 11:25:47.317] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-26 11:25:47.339] [sharedprocess] [info] Scanned user extensions: 1
+[2018-06-26 11:25:47.388] [sharedprocess] [info] Scanned system extensions: 70
+[2018-06-26 11:30:10.442] [sharedprocess] [info] Scanned user extensions: 1
+[2018-06-26 11:30:11.314] [sharedprocess] [info] Scanned user extensions: 1
+[2018-06-26 11:35:10.463] [sharedprocess] [info] Scanned user extensions: 1
+[2018-06-26 11:35:11.329] [sharedprocess] [info] Scanned user extensions: 1
+[2018-06-26 11:40:10.479] [sharedprocess] [info] Scanned user extensions: 1
+[2018-06-26 11:40:11.338] [sharedprocess] [info] Scanned user extensions: 1
+[2018-06-26 11:45:10.492] [sharedprocess] [info] Scanned user extensions: 1
+[2018-06-26 11:45:11.351] [sharedprocess] [info] Scanned user extensions: 1
+[2018-06-26 11:50:10.517] [sharedprocess] [info] Scanned user extensions: 1
+[2018-06-26 11:50:11.357] [sharedprocess] [info] Scanned user extensions: 1
+[2018-06-26 11:55:10.533] [sharedprocess] [info] Scanned user extensions: 1
+[2018-06-26 11:55:11.363] [sharedprocess] [info] Scanned user extensions: 1

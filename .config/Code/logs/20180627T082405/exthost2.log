@@ -1,0 +1,14 @@
+[2018-06-27 08:24:24.736] [exthost2] [info] extension host started
+[2018-06-27 08:24:25.040] [exthost2] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-06-27 08:24:25.040] [exthost2] [info] ExtensionService#loadCommonJSModule /snap/vscode/38/usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-06-27 08:24:25.937] [exthost2] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-06-27 08:24:25.937] [exthost2] [info] ExtensionService#loadCommonJSModule /snap/vscode/38/usr/share/code/resources/app/extensions/git/out/main
+[2018-06-27 08:24:27.217] [exthost2] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-06-27 08:24:27.217] [exthost2] [info] ExtensionService#loadCommonJSModule /snap/vscode/38/usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-06-27 08:24:27.324] [exthost2] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-06-27 08:24:27.324] [exthost2] [info] ExtensionService#loadCommonJSModule /snap/vscode/38/usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-06-27 08:24:27.401] [exthost2] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"activationEvent":"*"}
+[2018-06-27 08:24:27.401] [exthost2] [info] ExtensionService#loadCommonJSModule /home/student/.vscode/extensions/wallabyjs.quokka-vscode-1.0.132/index
+[2018-06-27 08:24:27.411] [exthost2] [info] eager extensions activated
+[2018-06-27 08:28:42.383] [exthost2] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-06-27 08:28:42.383] [exthost2] [info] ExtensionService#loadCommonJSModule /snap/vscode/38/usr/share/code/resources/app/extensions/html-language-features/client/out/htmlMain

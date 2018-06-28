@@ -1,0 +1,12 @@
+[Error - 8:59:36 AM] Error while computing hover for file:///home/student/.config/Code/User/snippets/javascript.json: Cannot read property 'type' of null
+TypeError: Cannot read property 'type' of null
+    at JSONHover.doHover (/snap/vscode/38/usr/share/code/resources/app/extensions/json-language-features/server/node_modules/vscode-json-languageservice/lib/umd/services/jsonHover.js:35:27)
+    at Object.<anonymous> (/snap/vscode/38/usr/share/code/resources/app/extensions/json-language-features/server/out/jsonServerMain.js:317:55)
+    at step (/snap/vscode/38/usr/share/code/resources/app/extensions/json-language-features/server/out/jsonServerMain.js:36:23)
+    at Object.next (/snap/vscode/38/usr/share/code/resources/app/extensions/json-language-features/server/out/jsonServerMain.js:17:53)
+    at /snap/vscode/38/usr/share/code/resources/app/extensions/json-language-features/server/out/jsonServerMain.js:11:71
+    at Promise (<anonymous>)
+    at __awaiter (/snap/vscode/38/usr/share/code/resources/app/extensions/json-language-features/server/out/jsonServerMain.js:7:12)
+    at /snap/vscode/38/usr/share/code/resources/app/extensions/json-language-features/server/out/jsonServerMain.js:311:55
+    at Immediate.<anonymous> (/snap/vscode/38/usr/share/code/resources/app/extensions/json-language-features/server/out/utils/runner.js:28:20)
+    at runCallback (timers.js:672:20)
